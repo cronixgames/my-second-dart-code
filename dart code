@@ -1,0 +1,19 @@
+void main(){
+  
+int x =1;
+int y =2;
+int resultado = x+y;
+print('resultado: $resultado');
+  
+int resultadoSub = x-y;
+print('resultado: $resultadoSub');
+  
+int resultadoMulti = x*y;
+print('resultado: $resultadoMulti');
+  
+double resultadoDivi = x/y;
+print('resultado: $resultadoDivi');
+  
+  
+}
+   
